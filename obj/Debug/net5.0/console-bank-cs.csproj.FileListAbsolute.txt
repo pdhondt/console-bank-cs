@@ -1,0 +1,16 @@
+/home/peter/Documents/Projects/dotnet/console-bank-cs/bin/Debug/net5.0/console-bank-cs
+/home/peter/Documents/Projects/dotnet/console-bank-cs/bin/Debug/net5.0/console-bank-cs.deps.json
+/home/peter/Documents/Projects/dotnet/console-bank-cs/bin/Debug/net5.0/console-bank-cs.runtimeconfig.json
+/home/peter/Documents/Projects/dotnet/console-bank-cs/bin/Debug/net5.0/console-bank-cs.runtimeconfig.dev.json
+/home/peter/Documents/Projects/dotnet/console-bank-cs/bin/Debug/net5.0/console-bank-cs.dll
+/home/peter/Documents/Projects/dotnet/console-bank-cs/bin/Debug/net5.0/ref/console-bank-cs.dll
+/home/peter/Documents/Projects/dotnet/console-bank-cs/bin/Debug/net5.0/console-bank-cs.pdb
+/home/peter/Documents/Projects/dotnet/console-bank-cs/obj/Debug/net5.0/console-bank-cs.csprojAssemblyReference.cache
+/home/peter/Documents/Projects/dotnet/console-bank-cs/obj/Debug/net5.0/console-bank-cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/Documents/Projects/dotnet/console-bank-cs/obj/Debug/net5.0/console-bank-cs.AssemblyInfoInputs.cache
+/home/peter/Documents/Projects/dotnet/console-bank-cs/obj/Debug/net5.0/console-bank-cs.AssemblyInfo.cs
+/home/peter/Documents/Projects/dotnet/console-bank-cs/obj/Debug/net5.0/console-bank-cs.csproj.CoreCompileInputs.cache
+/home/peter/Documents/Projects/dotnet/console-bank-cs/obj/Debug/net5.0/console-bank-cs.dll
+/home/peter/Documents/Projects/dotnet/console-bank-cs/obj/Debug/net5.0/ref/console-bank-cs.dll
+/home/peter/Documents/Projects/dotnet/console-bank-cs/obj/Debug/net5.0/console-bank-cs.pdb
+/home/peter/Documents/Projects/dotnet/console-bank-cs/obj/Debug/net5.0/console-bank-cs.genruntimeconfig.cache
